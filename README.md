@@ -1,4 +1,4 @@
-This folder contains code and resources for image classification using Artificial Neural Networks (ANN) on the Fashion MNIST dataset.
+This repository contains code and resources for image classification using Artificial Neural Networks (ANN) on the Fashion MNIST dataset.
 
 ## Contents
 
@@ -30,3 +30,4 @@ pip install tensorflow numpy matplotlib
 ## Dataset
 
 The [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset is used for training and testing the model.
+
